@@ -2,6 +2,8 @@ package arrays2;
 
 public class StrUtils {
 	
+	// projekt heute
+	
 	int countChars(String s){
 		
 		int count = 0;
